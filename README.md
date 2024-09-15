@@ -19,6 +19,14 @@ The bot is lightweight and can be run on a Node.js environment. The bot supports
 
 ---
 
+## One-click Deployment on Replit
+
+You can easily deploy this WhatsApp bot on Replit with one click. Replit will automatically install the necessary dependencies and give you a web environment to run the bot.
+
+[![Run on Replit](https://replit.com/badge/github/vaibhavk10/Whatsapp-TagAll-Bot)](https://replit.com/github/vaibhavk10/Whatsapp-TagAll-Bot)
+
+---
+
 ## 🛠️ Setup & Installation
 
 ### Prerequisites
