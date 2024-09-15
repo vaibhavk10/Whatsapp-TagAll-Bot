@@ -35,14 +35,11 @@ The bot is lightweight and can be run on a Node.js environment. The bot supports
 2. **Install the dependencies:**
    ```bash
    npm install
-3. **Configure the bot:**
-   ```bash
-   node index.js
-4. **Run the bot:**
+3. **Run the bot:**
    ```bash
    node index.js
 ---
-5. **Scan the QR code:**
+4. **Scan the QR code:**
 
 Once the bot starts, a QR code will appear in the terminal. Scan this QR code using the Linked Devices feature in WhatsApp to connect your WhatsApp account with the bot.
 
