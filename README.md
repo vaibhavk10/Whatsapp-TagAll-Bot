@@ -48,12 +48,11 @@ Once the bot starts, a QR code will appear in the terminal. Scan this QR code us
 
 ---
 
-📝 **Commands**
-
-.help : to see all commands
-.tagall : Tag all members in a WhatsApp group (admins only)
-   
----
+<h2>📝 Commands</h2>
+<ul>
+  <li><strong>.help</strong> : to see all commands</li>
+  <li><strong>.tagall</strong> : Tag all members in a WhatsApp group (admins only)</li>
+</ul>
 
 <h2>📄 License</h2>
 <p>
@@ -61,14 +60,14 @@ Once the bot starts, a QR code will appear in the terminal. Scan this QR code us
   <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a> 
   - see the <a href="https://github.com/vaibhavk10/Whatsapp-TagAll-Bot/blob/main/LICENSE" target="_blank">LICENSE</a> file for details.
 </p>
----
+
 <h2>🙌 Contributions</h2>
 <p>
   Contributions, issues, and feature requests are welcome!
   Feel free to check the 
   <a href="https://github.com/vaibhavk10/Whatsapp-TagAll-Bot/issues" target="_blank">issues page</a>.
 </p>
----
+
 <h2>🌟 Show your support</h2>
 <p>
   If you like this project, please give it a 
